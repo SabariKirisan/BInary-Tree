@@ -7,7 +7,7 @@ Input: root = [1,2,3,4,5,null,8,null,null,6,7,9]
 
 Output: [4,2,6,5,7,1,3,9,8]
 
-![image](https://github.com/user-attachments/assets/90db778e-9222-4c9a-8d89-ca43bb155fb6)
+![image](https://github.com/user-attachments/assets/15ceb4a5-1aae-4e7b-b435-106d9b816f7a)
 
 ## PROGRAM:(Main.cpp)
 ```
